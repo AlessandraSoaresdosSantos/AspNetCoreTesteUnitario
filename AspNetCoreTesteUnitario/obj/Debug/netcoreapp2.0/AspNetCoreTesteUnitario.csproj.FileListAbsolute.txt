@@ -1,0 +1,10 @@
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\bin\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.deps.json
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\bin\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.runtimeconfig.json
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\bin\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.runtimeconfig.dev.json
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\bin\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.dll
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\obj\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\obj\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.AssemblyInfoInputs.cache
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\obj\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.AssemblyInfo.cs
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\bin\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.pdb
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\obj\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.dll
+C:\Users\alessandra.soares\Documents\ProjetosGitHubAlessandra\AspNetCoreTesteUnitario\AspNetCoreTesteUnitario\obj\Debug\netcoreapp2.0\AspNetCoreTesteUnitario.pdb
